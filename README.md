@@ -54,18 +54,6 @@ Je conçois des solutions complètes : front-end, back-end, APIs, dashboards, CR
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=belgacemkh&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belgacemkh&show_icons=true&theme=transparent" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 📧 **Email :** devbekh@gmail.com 
