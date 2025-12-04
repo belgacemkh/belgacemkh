@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://imgur.com/8wVQ0B5.png" alt="banner" width="100%">
-</p>
-
 <h1 align="center">👋 Salut, je suis Belgacem</h1>
 <h3 align="center">Développeur Web Full Stack • Laravel | Vue.js | APIs</h3>
 
