@@ -56,10 +56,10 @@ Je conçois des solutions complètes : front-end, back-end, APIs, dashboards, CR
 
 ## 📫 Me contacter
 
-**Email :** devbekh@gmail.com 
-**LinkedIn :** [https://linkedin.com/in/— ](https://www.linkedin.com/in/khadher-belgacem/) 
-**Website :** [https://procura.tn] [https://ouidia.com]
-**WhatsApp :** +216 22 178 290
+- **Email :** devbekh@gmail.com 
+- **LinkedIn :** [https://linkedin.com/in/— ](https://www.linkedin.com/in/khadher-belgacem/) 
+- **Website :** [https://procura.tn] [https://ouidia.com]
+- **WhatsApp :** +216 22 178 290
 
 ---
 
